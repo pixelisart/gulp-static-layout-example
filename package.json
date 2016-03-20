@@ -1,0 +1,17 @@
+{
+  "name": "gulp-layout",
+  "version": "1.0.0",
+  "dependencies": {
+      "jquery": "*",
+      "bootstrap": "*"
+  },
+  "devDependencies": {
+      "gulp": "*",
+      "gulp-inject": "*",
+      "gulp-rename": "*",
+      "gulp-wrap": "*",
+      "del": "*"
+  },
+  "author": "",
+  "license": "MIT"
+}
